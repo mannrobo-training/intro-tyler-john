@@ -3,10 +3,10 @@ Afterwards, synchronize the changes to the remote.
 
 example: 2 + 2 = 4
 
-4 + 5 =
+4 + 5 = 9
 
-3 + 4 =
+3 + 4 = 7
 
-9 - 2 = 
+9 - 2 = 7
 
-6 - 4 = 
+6 - 4 = 2
