@@ -1,0 +1,5 @@
+i learned what git is
+
+i learned how to navigate the directories without a mouse
+
+i learned how to commit and backup things to github
